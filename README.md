@@ -110,8 +110,9 @@ python -m http.server 8000
 
 ## 📞 **Contact**
 
-Built with ❤️ and lots of 🚀 by [Your Name]
+Built with ❤️ and lots of 🚀 by Krushna Nawale
 
 ---
 
 **⭐ Star this repository if you love quantum calendars and funny quotes! ⭐**
+
