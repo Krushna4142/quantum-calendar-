@@ -1,7 +1,7 @@
 # ⚛️ QUANTUM CALENDAR - Advanced Date Calculator
 
 ## 🌟 **Live Demo**
-[View Live Demo]([https://yourusername.github.io/quantum-calendar](https://krushna4142.github.io/quantum-calendar-/))
+[View Live Demo](https://krushna4142.github.io/quantum-calendar-/)
 
 ## 🚀 **About This Project**
 
@@ -115,5 +115,6 @@ Built with ❤️ and lots of 🚀 by Krushna Nawale
 ---
 
 **⭐ Star this repository if you love quantum calendars and funny quotes! ⭐**
+
 
 
