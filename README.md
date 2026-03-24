@@ -151,6 +151,8 @@ in your browser.
 No installation required.
 
 ```
+---
+
 ## <a name="structure"> 📁 Project Structure</a>
 ```
 quantum-calendar/
@@ -168,6 +170,7 @@ quantum-calendar/
 ├── index.html
 └── README.md
 ```
+---
 
 ## <a name="future"> 🚀 Future Improvements</a>
 Event scheduling system
@@ -177,12 +180,17 @@ Calendar reminders
 Backend integration
 Google Calendar sync
 
+---
+
 ## <a name="author">👨‍💻 Author</a>
 
 Krushna Nawale<br><br>
 
 GitHub: https://github.com/Krushna4142<br>
 LinkedIn: https://www.linkedin.com/in/krushna4142/<br><br><br>
+
+---
+
 <div align="center">
 
 ⭐ If you like this project, consider giving it a star!
