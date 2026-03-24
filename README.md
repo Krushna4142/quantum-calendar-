@@ -1,287 +1,190 @@
-# 🧭 Quantum Calendar — Intelligent Time & Productivity System
-
 <div align="center">
+  <br />
+    <a href="https://your-live-demo-link.vercel.app" target="_blank">
+      <img src="assets/banner.png" alt="Quantum Calendar Banner">
+    </a>
+  <br />
 
-### A Modern Smart Calendar Built for Focused Developers & Productive Workflows
+  <div>
+    <img src="https://img.shields.io/badge/-HTML-black?style=for-the-badge&logoColor=white&logo=html5&color=E34F26" />
+    <img src="https://img.shields.io/badge/-CSS-black?style=for-the-badge&logoColor=white&logo=css3&color=1572B6" />
+    <img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logoColor=white&logo=javascript&color=F7DF1E" />
+    <img src="https://img.shields.io/badge/-Responsive_UI-black?style=for-the-badge&logoColor=white&logo=web&color=00C7B7" />
+  </div>
 
-**Consistent Planning • Clean Code • Real Productivity**
+  <h3 align="center">Quantum Calendar — Interactive Smart Calendar Experience</h3>
 
----
-
-![Next.js](https://img.shields.io/badge/Next.js-14-black?style=for-the-badge&logo=next.js)
-![React](https://img.shields.io/badge/React-18-blue?style=for-the-badge&logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?style=for-the-badge&logo=typescript)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-3-38bdf8?style=for-the-badge&logo=tailwind-css)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
-
+  <div align="center">
+    A modern, visually engaging calendar application focused on productivity, interaction, and clean UI design.
+  </div>
 </div>
 
 ---
 
-## 🚀 Project Overview
+## 📋 <a name="table">Table of Contents</a>
 
-**Quantum Calendar** is an intelligent productivity-focused calendar system designed to help users plan, visualize, and optimize their daily schedules through a clean and distraction-free interface.
-
-Unlike traditional calendar applications, Quantum Calendar focuses on **deep work**, **clarity**, and **efficient time management**, combining modern frontend architecture with minimal UI principles.
-
-This project demonstrates real-world software engineering practices including scalable component architecture, responsive UI systems, and performance-oriented frontend development.
-
----
-
-## 🎯 Purpose of the Project
-
-The goal of Quantum Calendar is to:
-
-- Build a modern productivity application using industry tools
-- Practice scalable frontend architecture
-- Design recruiter-grade UI systems
-- Improve workflow visualization
-- Demonstrate real project development skills
+1. 🤖 [Introduction](#introduction)
+2. ⚙️ [Tech Stack](#tech-stack)
+3. 🔋 [Features](#features)
+4. 📸 [Screenshots](#screenshots)
+5. 🤸 [Quick Start](#quick-start)
+6. 📁 [Project Structure](#structure)
+7. 🚀 [Future Improvements](#future)
+8. 👨‍💻 [Author](#author)
 
 ---
 
-## ✨ Key Features
+## <a name="introduction">🤖 Introduction</a>
 
-### 📅 Smart Scheduling System
-- Create and manage daily schedules
-- Organized time blocks
-- Clear visual timeline representation
+**Quantum Calendar** is a modern web-based calendar designed to combine productivity with interactive visual experience.
 
-### ⚡ Minimal Productivity Dashboard
-- Clean UI inspired by developer tools
-- Focus-first layout
-- Zero unnecessary distractions
+Unlike traditional calendars, this project focuses on:
 
-### 🌙 Dark Mode Optimized
-- GitHub-style dark theme
-- Comfortable long-session usage
-- Professional visual consistency
-
-### 📱 Fully Responsive Design
-- Desktop-first architecture
-- Tablet & mobile adaptability
-- Flexible layout scaling
-
-### 🔍 Fast Navigation
-- Optimized rendering
+- Clean developer-focused UI
 - Smooth interactions
-- Efficient component updates
+- Dynamic date handling
+- Neon-inspired minimal design
+- Responsive layout across devices
 
-### 🧠 Productivity-Centered UX
-- Visual clarity over complexity
-- Intentional spacing
-- Cognitive load reduction
-
----
-
-## 🧱 Tech Stack
-
-| Category | Technology |
-|---------|------------|
-| Framework | Next.js 14 |
-| Library | React 18 |
-| Language | TypeScript |
-| Styling | Tailwind CSS |
-| Deployment | Vercel |
-| Version Control | Git & GitHub |
+The goal of this project was to build a **real-world frontend product experience** while maintaining performance and simplicity.
 
 ---
 
-## 🏗️ System Architecture
+## <a name="tech-stack">⚙️ Tech Stack</a>
 
-Quantum Calendar follows a modular frontend architecture:
-
-- Component-driven development
-- Reusable UI modules
-- Separation of logic and presentation
-- Scalable folder organization
-
-### Architecture Principles
-
-- Maintainability
-- Performance optimization
-- Clean code practices
-- Reusability
-- Developer readability
+- HTML5
+- CSS3
+- JavaScript (Vanilla JS)
+- Responsive Design
+- Modern UI/UX Principles
 
 ---
 
-## 📂 Project Structure
+## <a name="features">🔋 Features</a>
+
+👉 **Interactive Calendar Interface**  
+Navigate months and dates smoothly with real-time updates.
+
+👉 **Dynamic Date Calculations**  
+Automatically handles day positioning and calendar logic.
+
+👉 **Modern Neon UI**  
+Minimal developer-style design inspired by modern SaaS dashboards.
+
+👉 **Animated Visual Effects**  
+Subtle animations enhance user interaction without distraction.
+
+👉 **Fun Interaction Modes**  
+Creative UI modes that add personality to the application.
+
+👉 **Fully Responsive Design**  
+Optimized for desktop, tablet, and mobile devices.
+
+👉 **Clean Code Architecture**  
+Structured project layout focused on readability and scalability.
+
+---
+
+## <a name="screenshots">📸 Screenshots</a>
+
+### 📅 Smart Calendar Interface
+<img src="assets/screenshots/calendar-main.png" width="800"/>
+
+*Minimal productivity-focused calendar designed for distraction-free planning.*
+
+---
+
+### ⚛️ Quantum Date Calculation
+<img src="assets/screenshots/date-calculation.png" width="800"/>
+
+*Dynamic date rendering with interactive updates.*
+
+---
+
+### ✨ Animated Experience
+<img src="assets/screenshots/quantum-effects.png" width="800"/>
+
+*Subtle visual effects creating an engaging UI experience.*
+
+---
+
+### 🎭 Interactive Modes
+<img src="assets/screenshots/fun-modes.png" width="800"/>
+
+*Creative interaction layers blending functionality with design.*
+
+---
+
+### 📱 Responsive Layout
+<img src="assets/screenshots/mobile-view.png" width="800"/>
+
+*Optimized viewing across all screen sizes.*
+
+---
+
+## <a name="quick-start">🤸 Quick Start</a>
+
+Follow these steps to run the project locally.
+
+### Prerequisites
+
+Make sure you have:
+
+- Git
+- Web Browser (Chrome recommended)
+
+---
+
+### Clone Repository
+
+```bash
+git clone https://github.com/yourusername/quantum-calendar.git
+cd quantum-calendar
+Run Project
+
+Simply open:
+
+index.html
+
+in your browser.
+
+No installation required.
 
 ```
-Quantum-Calendar/
+## <a name="structure"> 📁 Project Structure</a>
+```
+quantum-calendar/
 │
-├── public/
-│   ├── icons/
+├── assets/
+│   ├── banner.png
 │   └── screenshots/
 │
-├── components/
-│   ├── calendar/
-│   ├── dashboard/
-│   ├── layout/
-│   └── ui/
+├── css/
+│   └── styles.css
 │
-├── pages/
-│   ├── index.tsx
-│   └── _app.tsx
+├── js/
+│   └── script.js
 │
-├── styles/
-│   └── globals.css
-│
-├── utils/
-│   └── helpers.ts
-│
-├── hooks/
-│
+├── index.html
 └── README.md
 ```
 
----
+## <a name="future"> 🚀 Future Improvements</a>
+Event scheduling system
+Local storage persistence
+Dark/Light theme switcher
+Calendar reminders
+Backend integration
+Google Calendar sync
 
-## ⚙️ Installation Guide
+## <a name="author">👨‍💻 Author</a>
 
-### 1️⃣ Clone Repository
+Krushna Nawale<br><br>
 
-```bash
-git clone https://github.com/YOUR_USERNAME/quantum-calendar.git
-```
-
-### 2️⃣ Navigate to Project
-
-```bash
-cd quantum-calendar
-```
-
-### 3️⃣ Install Dependencies
-
-```bash
-npm install
-```
-
-### 4️⃣ Start Development Server
-
-```bash
-npm run dev
-```
-
-### 5️⃣ Open Application
-
-```
-http://localhost:3000
-```
-
----
-
-## 🧩 Core Functional Modules
-
-| Module | Description |
-|-------|-------------|
-| Calendar Engine | Handles scheduling logic |
-| Dashboard UI | Displays productivity overview |
-| Time Blocks | Manages event visualization |
-| Layout System | Global UI consistency |
-| State Handling | Component interaction flow |
-
----
-
-## 📸 Screenshots
-
-Add screenshots inside:
-
-```
-/public/screenshots/
-```
-
-Example:
-
-```
-dashboard.png
-calendar-view.png
-dark-mode.png
-```
-
-Then display:
-
-```markdown
-![Dashboard](public/screenshots/dashboard.png)
-```
-
----
-
-## 🚀 Deployment
-
-Deploy easily using **Vercel**:
-
-```bash
-npm run build
-```
-
-Push repository → Import into Vercel → Deploy automatically.
-
----
-
-## 📈 Learning Outcomes
-
-Through this project:
-
-- Implemented scalable React architecture
-- Applied modern UI/UX principles
-- Practiced TypeScript-based development
-- Improved component abstraction skills
-- Built recruiter-ready portfolio project
-
----
-
-## 🔮 Future Enhancements
-
-- AI-powered scheduling suggestions
-- Productivity analytics dashboard
-- Cloud synchronization
-- Reminder & notification system
-- Drag-and-drop scheduling
-- Calendar sharing functionality
-
----
-
-## 🤝 Contribution Guidelines
-
-Contributions are welcome.
-
-1. Fork the repository
-2. Create feature branch
-3. Commit changes
-4. Push branch
-5. Open Pull Request
-
----
-
-## 🧪 Development Standards
-
-- Clean commit history
-- Component reusability
-- Responsive-first styling
-- Performance-focused rendering
-- Readable naming conventions
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License**.
-
----
-
-## 👨‍💻 Author
-
-**Krushna Nawale**
-
-GitHub: https://github.com/Krushna4142  
-LinkedIn: https://www.linkedin.com/in/krushna4142/
-
----
-
+GitHub: https://github.com/Krushna4142<br>
+LinkedIn: https://www.linkedin.com/in/krushna4142/<br><br><br>
 <div align="center">
 
-### ⭐ Star the repository if you found it useful!
+⭐ If you like this project, consider giving it a star!
 
-</div>
+</div> ```
