@@ -1,7 +1,7 @@
 <div align="center">
   <br />
     <a href="https://your-live-demo-link.vercel.app" target="_blank">
-      <img src="assets/banner.png" alt="Quantum Calendar Banner">
+      <img src="banner.png" alt="Quantum Calendar Banner">
     </a>
   <br />
 
